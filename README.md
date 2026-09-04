@@ -43,15 +43,21 @@ This project helped me practice:
 - 🎨 Styling components with Tailwind CSS
 - 🐛 Debugging React and TypeScript errors
 
-## ▶️ Running the Project
+## 📥 How to Download
 
-Install the dependencies:
+1. Click the green **Code** button at the top of the repository.
+2. Click **Download ZIP**.
+3. Extract the downloaded ZIP file.
+4. Open the extracted folder in **Visual Studio Code**.
+5. Open the terminal and run:
 
-npm install
+   npm install
 
-Start the development server:
+6. Once the dependencies have finished installing, run:
 
-npm run dev
+   npm run dev
+
+7. Open the local URL shown in the terminal to use HabitFlow.
 
 👷‍♂️ Author: 
 ---
